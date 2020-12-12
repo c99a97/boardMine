@@ -1,0 +1,128 @@
+2019-12-16 01:29:55 # cswin # Login Success
+2019-12-16 01:58:12 # cswin # Login Success
+2019-12-16 04:35:08 # cswin # Login Success
+2019-12-16 04:57:24 # cswin # Login Success
+2019-12-16 05:51:30 # naver # Login Success
+2019-12-16 07:19:41 # cswin # Login Success
+2019-12-16 07:19:51 # naver # Login Success
+2019-12-16 07:25:23 # cswin # Login Success
+2019-12-16 07:51:56 # cswin # Login Success
+2019-12-16 07:52:00 # cswin # Login Success
+2019-12-16 07:52:09 # cswin # Login Success
+2019-12-16 07:52:16 # naver # Login Success
+2019-12-16 07:52:21 # cswin # Login Success
+2019-12-16 07:54:24 # cswin # Login Fail
+2019-12-16 07:54:28 # cswin # Login Success
+2019-12-16 07:55:38 # naver # Login Success
+2019-12-16 07:59:15 # cswin # Login Success
+2019-12-16 08:00:47 # cswin # Login Success
+2019-12-16 08:02:26 # cswin # Login Success
+2019-12-16 08:03:31 # cswin # Login Success
+2019-12-16 08:13:08 # cswin # Login Success
+2019-12-16 08:14:33 # cswin # Login Success
+2019-12-16 08:14:48 # cswin # Login Success
+2019-12-16 08:15:48 # cswin # Login Success
+2019-12-16 08:16:16 # cswin # Login Success
+2019-12-16 08:40:39 # cswin # Login Success
+2019-12-16 09:06:42 # cswin # Login Success
+2019-12-16 10:36:08 # cswin # Login Success
+2019-12-16 10:48:44 # cswin # Login Success
+2019-12-16 10:56:53 # cswin # Login Success
+2019-12-16 10:59:37 # naver # Login Fail
+2019-12-16 10:59:41 # naver # Login Success
+2019-12-16 11:00:14 # cswin # Login Success
+2019-12-16 11:29:17 # cswin # Login Success
+2019-12-16 11:29:58 # cswin # Login Success
+2019-12-16 11:43:50 # cswin # Login Success
+2019-12-16 12:37:50 # cswin # Login Success
+2019-12-16 12:38:35 # cswin # Login Fail
+2019-12-16 12:39:21 # cswin # Login Success
+2019-12-16 15:55:32 # testuser # NOT Permissioned ID
+2019-12-16 15:55:32 # testuser # NOT Permissioned ID
+Login Success
+2019-12-16 15:56:41 # testuser # NOT Permissioned ID
+2019-12-16 15:56:41 # testuser # NOT Permissioned ID
+Login Fail
+2019-12-16 15:58:28 # testuser # NOT Permissioned ID
+2019-12-16 15:58:28 # testuser # NOT Permissioned ID
+Login Fail
+2019-12-16 15:58:40 # testuser # NOT Permissioned ID
+2019-12-16 15:58:40 # testuser # NOT Permissioned ID
+Login Fail
+2019-12-16 15:59:38 # testuser # NOT Permissioned ID
+2019-12-16 15:59:38 # testuser # NOT Permissioned ID
+Login Success
+2019-12-16 16:00:22 # testuser # NOT Permissioned ID
+2019-12-16 16:00:22 # testuser # NOT Permissioned ID
+Login Success
+2019-12-16 16:00:51 # testuser # NOT Permissioned ID
+2019-12-16 16:00:51 # testuser # NOT Permissioned ID
+Login Fail
+2019-12-16 16:01:56 # testuser # NOT Permissioned ID
+2019-12-16 16:01:56 # testuser # NOT Permissioned ID
+Login Success
+2019-12-16 16:02:23 # testuser # NOT Permissioned ID
+2019-12-16 16:02:23 # testuser # NOT Permissioned ID
+Login Fail
+2019-12-16 16:02:33 # testuser # NOT Permissioned ID
+2019-12-16 16:02:33 # testuser # NOT Permissioned ID
+Login Success
+2019-12-16 16:02:53 # testuser # NOT Permissioned ID
+2019-12-16 16:03:17 # testuser # NOT Permissioned ID
+2019-12-16 16:03:51 # testuser # NOT Permissioned ID
+2019-12-16 16:55:04 # cswin # Login Success
+2019-12-16 16:58:34 # cswin # Login Success
+2019-12-16 16:58:41 # cswin # Login Success
+2019-12-16 17:46:13 # testuser # NOT Permissioned ID
+2019-12-16 17:46:19 # textuser # Login Fail
+2019-12-16 17:46:28 # textuser # Login Success
+2019-12-16 17:50:07 # cccaaa # Login Success
+2019-12-16 18:05:53 # cccaaa # Login Fail
+2019-12-16 18:06:00 # cccaaa # Login Success
+2019-12-16 18:11:01 # cccaaa # Login Success
+2019-12-16 19:28:32 # cswin # Login Fail
+2019-12-16 19:28:41 # cswin # Login Success
+2019-12-16 19:32:27 # cccaaa # Login Success
+2019-12-16 19:35:12 # cswin # Login Success
+2019-12-16 19:45:32 # cccaaa # Login Success
+2019-12-16 20:34:25 # cccaaa # Login Fail
+2019-12-16 20:34:30 # cccaaa # Login Success
+2019-12-16 20:40:54 # cccaaa # Login Fail
+2019-12-16 20:40:57 # cccaaa # Login Fail
+2019-12-16 20:41:00 # cccaaa # Login Fail
+2019-12-16 20:41:02 # cccaaa # Login Fail
+2019-12-16 20:41:04 # cccaaa # Login Fail LOCK
+2019-12-16 20:41:06 # cccaaa # Locked ID
+2019-12-16 20:41:06 # cccaaa # Locked ID
+Login Fail
+2019-12-16 20:41:08 # cccaaa # Locked ID
+2019-12-16 20:41:08 # cccaaa # Locked ID
+Login Fail
+2019-12-16 20:42:04 # cccaaa # Locked ID
+2019-12-16 20:42:04 # cccaaa # Locked ID
+Login Fail
+2019-12-16 20:42:29 # cccaaa # Locked ID
+2019-12-16 20:42:29 # cccaaa # Locked ID
+Login Fail
+2019-12-16 20:43:56 # cccaaa # Locked ID
+2019-12-16 20:43:56 # cccaaa # Locked ID
+Login Fail LOCK
+2019-12-16 20:44:15 # cccaaa # Locked ID
+2019-12-16 20:44:15 # cccaaa # Locked ID
+Login Fail
+2019-12-16 20:44:27 # cccaaa # Locked ID
+2019-12-16 20:44:27 # cccaaa # Locked ID
+Login Fail
+2019-12-16 20:45:17 # cccaaa # Locked ID
+2019-12-16 20:45:17 # cccaaa # Locked ID
+Login Fail
+2019-12-16 20:45:57 # cccaaa # Locked ID
+2019-12-16 20:45:57 # cccaaa # Locked ID
+Login Fail
+2019-12-16 20:47:14 # cccaaa # Locked ID
+2019-12-16 20:47:14 # cccaaa # Locked ID
+Login Fail LOCK
+2019-12-16 20:51:14 # asdasd # NOT Permissioned ID
+2019-12-16 20:51:45 # cccaaa # Locked ID
+2019-12-16 20:51:45 # cccaaa # Locked ID
+Login Fail
