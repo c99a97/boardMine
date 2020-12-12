@@ -1,5 +1,5 @@
 ﻿<?php
-	require_once "boardMine_header.php";
+    require_once "boardMine_header.php";
     require_once "boardMine_menubar.php";
 ?>
     </td></tr>
